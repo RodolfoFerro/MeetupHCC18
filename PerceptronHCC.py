@@ -18,8 +18,8 @@ class PerceptronHCC():
 
 
 if __name__ == '__main__':
-    entradas = [1, 1, 0, 1]
+    entradas = [0, 1, 0, 1]
     pesos = [-4, 3, 11, 2]
 
     meetup = PerceptronHCC(entradas, pesos)
-    print(meetup.voy_no_voy(3))
+    print(meetup.voy_no_voy(1))
