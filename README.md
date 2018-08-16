@@ -24,7 +24,7 @@ Para ello, bastará crear un nuevo Notebook para Python 3. Todo el contenido ser
 
 ## Contenido 👾
 
-Todo el contenido del taller y la charla se encuentran en este repositorio. Asimismo, puede notarse la existencia de la carpeta [`more`](https://github.com/RodolfoFerro/FLISoL18/tree/master/more), que contiene un conjunto de archivos que complementan el contenido principal del taller así como un modelo pre-entrenado y un conjunto de imágenes utilizadas en los notebooks y el repo.
+Todo el contenido del taller y la charla se encuentran en este repositorio. Asimismo, puede notarse la existencia de la carpeta [`more`](https://github.com/RodolfoFerro/MeetupHCC18/tree/master/more), que contiene un conjunto de archivos que complementan el contenido principal del taller así como un modelo pre-entrenado y un conjunto de imágenes utilizadas en los notebooks y el repo.
 
 Scripts utilizados en el taller:
 - [`PerceptronHCC.py`](https://github.com/RodolfoFerro/MeetupHCC18/blob/master/PerceptronHCC.py)
