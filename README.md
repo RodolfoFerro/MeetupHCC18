@@ -9,9 +9,9 @@
 
 El [Centro de Investigación en Matemáticas (CIMAT) A.C.](https://www.cimat.mx/), [Unidad Zacatecas](http://www.ingsoft.mx/), a través del *Laboratorio de Computación Centrada en el Humano* crea el [**Meetup HCC-CIMAT 2018**](https://hcc-cimat.com/meetup2018/), encuentro de Computación Centrada en el Humano donde se presentan diversas charlas y talleres dirigidos a estudiantes universitarios, investigadores, profesionales del área y líderes funcionarios.
 
-El presente repo contiene una charla sobre reconocimiento de emociones en conjuntos de personas, así como un taller de introducción a *Deep Learning* con Python 🐍, para el [**Meetup HCC-CIMAT 2018**](https://hcc-cimat.com/meetup2018/) a realizarse en *CIMAT, Unidad Zacatecas* el próximo 16 de agosto.
+El presente repo contiene una charla sobre reconocimiento de emociones en conjuntos de personas, así como un taller de introducción a *Deep Learning* con Python 🐍, para el [**Meetup HCC-CIMAT 2018**](https://hcc-cimat.com/meetup2018/) a realizarse en *CIMAT, Unidad Zacatecas* el próximo 16 de agosto de 2018.
 
-Este último es básicamente un taller introductorio sobre [*Redes Neuronales Artificiales*](https://en.wikipedia.org/wiki/Artificial_neural_network) utilizando [Keras](https://keras.io/). Respecto a la charla, se describe el diseño experimental y desarrollo del mismo (hasta este punto).
+Este último es básicamente un taller introductorio sobre [*Redes Neuronales Artificiales*](https://en.wikipedia.org/wiki/Artificial_neural_network) utilizando [Keras](https://keras.io/). Respecto a la charla, se describe la motivación, el diseño experimental y desarrollo del mismo (hasta este punto).
 
 Para conocer el programa completo del evento, revisa el siguiente enlace: [https://hcc-cimat.com/meetup2018/programa/](https://hcc-cimat.com/meetup2018/programa/)
 
@@ -26,7 +26,7 @@ Para ello, bastará crear un nuevo Notebook para Python 3. Todo el contenido ser
 
 Todo el contenido del taller y la charla se encuentran en este repositorio. Asimismo, puede notarse la existencia de la carpeta [`more`](https://github.com/RodolfoFerro/FLISoL18/tree/master/more), que contiene un conjunto de archivos que complementan el contenido principal del taller así como un modelo pre-entrenado y un conjunto de imágenes utilizadas en los notebooks y el repo.
 
-Scripts:
+Scripts utilizados en el taller:
 - [`PerceptronHCC.py`](https://github.com/RodolfoFerro/MeetupHCC18/blob/master/PerceptronHCC.py)
 - [`SigmoidHCC.py`](https://github.com/RodolfoFerro/MeetupHCC18/blob/master/SigmoidHCC.py)
 
